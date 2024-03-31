@@ -1,0 +1,30 @@
+
+{
+    "MethodsType": "get",
+    "Data": {
+        "code": 200,
+        "message": "success",
+        "data": [
+            {
+                "path": "/HomeView",
+                "name": "HomeView",
+                "component": "HomeView"
+            },
+            {
+                "path": "/AboutView",
+                "name": "AboutView",
+                "component": "AboutView"
+            },
+            {
+                "path": "/UsersView",
+                "name": "UsersView",
+                "component": "UsersView"
+            },
+            {
+                "path": "/UserDetailsComponent",
+                "name": "UserDetailsComponent",
+                "component": "UserDetailsComponent"
+            }
+        ]
+    }
+}

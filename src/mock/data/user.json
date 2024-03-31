@@ -1,0 +1,12 @@
+{
+    "MethodsType": "get",
+    "Data": {
+        "code": 200,
+        "message": "success",
+        "data": {
+            "name": "郭秀兰",
+            "age": 23,
+            "gender": "男"
+        }
+    }
+}
